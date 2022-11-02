@@ -15,7 +15,8 @@ visual Register:
 Visual Home:
 ![image](https://user-images.githubusercontent.com/96635752/199611986-fc27a835-dfa4-4398-8e19-133229d9f099.png)
 
-![image](https://user-images.githubusercontent.com/96635752/199612114-2f7214c6-c19f-40c7-b31a-dd53efb268b5.png)
+![image](https://user-images.githubusercontent.com/96635752/199612839-fa2bffb5-0fbe-4464-af17-035058f5c48f.png)
+
 
 Visual Page Filme:
 ![image](https://user-images.githubusercontent.com/96635752/199612355-6d4fd773-15af-45ae-8c89-d32f97ce15da.png)
